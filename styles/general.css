@@ -1,0 +1,18 @@
+p{
+    font-family: Roboto, Arial;
+    margin: 0;
+}
+
+body{
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgba(238, 235, 235, 0.719);
+}
+
+@media (min-width: 1200.1px) {
+    body {
+      margin-left: 168px;
+    }
+  }
